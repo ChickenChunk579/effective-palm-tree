@@ -33,7 +33,7 @@
 <u><h1>Welcome to my amazing game!</h1></u>
 <h2>Click the button bellow to increment the number!</h2>
 <h3>If you get to some milestones, you may get a reward!</h3>
-<p>Number: {number}</p>
+<p>🧠: {number}</p>
 <p>Level: {level}</p>
 
 <button on:click={increment}>🧠</button>
